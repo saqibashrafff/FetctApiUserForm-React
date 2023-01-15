@@ -1,0 +1,57 @@
+body{
+  background-color: orangered;
+  padding: 120px 0;
+}
+
+h1{
+  color: rgb(36, 34, 34);
+}
+
+.LoginSection {
+  width: 30%;
+  margin: auto;
+  text-align: center;
+  background-color: white;
+  padding: 10px 0 40px 0 ;
+  border-radius: 10px;
+}
+
+input {
+  width: 70%;
+  height: 35px;
+  margin-bottom: 20px;
+  border: 1px solid grey;
+  border-radius: 15px;
+  padding-left: 10px;
+}
+
+button{
+  margin-top: 20px;
+  width: 60%;
+  height: 35px;
+  border: none;
+  border-radius: 15px;
+  background-color: orangered;
+  color: white;
+}
+
+/* Success Section */
+
+.Succes-Section {
+  text-align: center;
+  width: 30%;
+  margin: auto;
+  background-color: white;
+  margin-top: 80px;
+  border-radius: 10px;
+  padding: 10px 0 40px 0 ;
+}
+
+p{
+  margin: 0;
+  font-size: 0.9rem;
+}
+
+img {
+  margin-top: 30px;
+}
